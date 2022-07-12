@@ -2,6 +2,10 @@
 
 ****
 
+Пример разворота python проекта (скрипта) на сервер. Доствка обновлений может осуществляться с помощью *git pull* 
+
+****
+
 ## Подготовка к установке
 
 https://github.com/Vivchy/example-python-requirements-deploy/edit/master/README.md
