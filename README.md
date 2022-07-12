@@ -10,6 +10,8 @@
 
 https://github.com/Vivchy/example-python-requirements-deploy/edit/master/README.md
 
+До пункта  **`Создание папки venv в проекте`**
+
 ****
 
 ## Загрузка на сервер
